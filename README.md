@@ -1,2 +1,2 @@
-# IntroductionToNeuralNetworks
- A Primer on Neural Networks with introductory examples and excercises 
+# Introduction To Neural Networks
+ A Primer on Neural Networks with introductory examples. Following various statistical regression models, these notes focus on the mathematics behind the various layers and activation functions one can choose when designing a neural network. These notes have been supplemented with many Python Jupyter notebooks, where all examples from the notes have been implemented using the Keras API of TensorFlow2.
